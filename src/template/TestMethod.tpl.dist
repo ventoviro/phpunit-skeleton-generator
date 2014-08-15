@@ -1,13 +1,13 @@
 
-    /**
-     * Generated from @assert {annotation}.
-     *
-     * @covers {className}::{origMethodName}
-     */
-    public function test{methodName}()
-    {
-        $this->assert{assertion}(
-            {expected},
-            $this->object->{origMethodName}({arguments})
-        );
-    }
+	/**
+	 * Generated from @assert {annotation}.
+	 *
+	 * @covers {className}::{origMethodName}
+	 */
+	public function test{methodName}()
+	{
+		$this->assert{assertion}(
+			{expected},
+			$this->object->{origMethodName}({arguments})
+		);
+	}
