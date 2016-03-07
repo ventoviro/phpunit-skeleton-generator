@@ -1,8 +1,8 @@
 {
-    "name": "phpunit/phpunit-skeleton-generator",
+    "name": "windwalker/phpunit-skeleton-generator",
     "description": "Tool that can generate skeleton test classes from production code classes and vice versa",
     "keywords": ["phpunit", "xunit", "testing", "skeleton"],
-    "homepage": "https://github.com/sebastianbergmann/phpunit-skeleton-generator",
+    "homepage": "https://github.com/ventoviro/phpunit-skeleton-generator/tree/windwalker-tmpl",
     "license": "BSD-3-Clause",
     "authors": [
         {
@@ -11,9 +11,6 @@
             "role": "lead"
         }
     ],
-    "support": {
-        "issues": "https://github.com/sebastianbergmann/phpunit-skeleton-generator/issues"
-    },
     "require": {
         "php": ">=5.3.3",
         "phpunit/php-text-template": "~1.2",
@@ -38,4 +35,3 @@
         }
     }
 }
-
