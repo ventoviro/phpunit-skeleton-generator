@@ -2,7 +2,7 @@
 	/**
 	 * Generated from @assert {annotation}.
 	 *
-	 * @covers {className}::{origMethodName}
+	 * @covers \{className}::{origMethodName}
 	 */
 	public function test{methodName}()
 	{
